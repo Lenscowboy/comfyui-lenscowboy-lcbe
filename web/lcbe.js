@@ -11,7 +11,7 @@
 
 import { app } from "../../scripts/app.js";
 
-const EXT_NAME = "LensCowboy.LCBE";
+const EXT_NAME = "Lenscowboy.LCBE";
 
 const SOCKET_COLOURS = {
   LCBE_LAYOUT:   "#8b5cf6",   // purple — spatial scene data

@@ -17,7 +17,7 @@ method raises NotImplementedError. Phase 2 fills in lcbe_client/* and wires it u
 class LCBELoadShotNode:
     """Phase 2 will implement this. See nodes/load_shot.py for the planned shape."""
 
-    CATEGORY = "LensCowboy/LCBE"
+    CATEGORY = "Lenscowboy/LCBE"
     FUNCTION = "execute"
     RETURN_TYPES = ("IMAGE", "MASK", "LCBE_LAYOUT", "LCBE_METADATA")
     RETURN_NAMES = ("image", "mask", "layout", "metadata")

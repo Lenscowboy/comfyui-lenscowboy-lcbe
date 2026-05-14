@@ -16,7 +16,7 @@ in the multipart streaming + workflow capture wiring.
 class LCBESaveNode:
     """Phase 3 will implement this. See nodes/save.py for the planned shape."""
 
-    CATEGORY = "LensCowboy/LCBE"
+    CATEGORY = "Lenscowboy/LCBE"
     FUNCTION = "execute"
     OUTPUT_NODE = True
     RETURN_TYPES = ("LCBE_METADATA", "STRING")

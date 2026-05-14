@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-lenscowboy-lcbe"
-description = "ComfyUI node for LensCowboy LCBE — load shots, save versions, round-trip with full provenance."
+description = "ComfyUI node for Lenscowboy LCBE — load shots, save versions, round-trip with full provenance."
 version = "0.1.0"
 license = { text = "MIT" }
 readme = "README.md"

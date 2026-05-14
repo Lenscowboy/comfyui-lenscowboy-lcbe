@@ -1,6 +1,6 @@
 # LCBE Node for ComfyUI
 
-LCBE pipeline integration for ComfyUI by [LensCowboy](https://lenscowboy.com).
+LCBE pipeline integration for ComfyUI by [Lenscowboy](https://lenscowboy.com).
 
 Load LCBE shots (with optional PAL spatial layout) into ComfyUI, render any graph you like, save the result back to LCBE as a new version or new shot — with full workflow provenance.
 

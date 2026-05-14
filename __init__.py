@@ -1,5 +1,5 @@
 """
-LCBE Node for ComfyUI — LensCowboy backend integration.
+LCBE Node for ComfyUI — Lenscowboy backend integration.
 
 Two nodes:
 - LCBE Load Shot — pulls shot media, PAL layout, character refs from LCBE.
@@ -22,8 +22,8 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "LCBELoadShotNode": "LCBE Load Shot (LensCowboy)",
-    "LCBESaveNode": "LCBE Save (LensCowboy)",
+    "LCBELoadShotNode": "LCBE Load Shot (Lenscowboy)",
+    "LCBESaveNode": "LCBE Save (Lenscowboy)",
 }
 
 WEB_DIRECTORY = "./web"
